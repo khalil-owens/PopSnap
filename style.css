@@ -1,18 +1,8 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 30px;
+#footer {
+    clear: both;
+    margin: 0px;
+    font-size: large;
+    text-align: center;
+    color: rgb(41, 59, 198);
+    padding: 10px;
 }
-
-p {
-    margin: 10px 0;
-    font-weight: bold;
-}
-
-button{
-    margin: 10px 0;
-}
-
-input{ 
-    margin-bottom: 10px;
-}
-
